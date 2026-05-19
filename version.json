@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "versionCode": 11,
+  "releaseNotes": "Replace decimal degress format to ddmmss format on Exif Display, Added GEO CAM, (Photos taken from the app will have Exif Details), use JETHRO Icon, Bug fixes and improvements",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v.1.1.0/com.denr.r12.ocm.apk",
+  "forceUpdate": false
+}
