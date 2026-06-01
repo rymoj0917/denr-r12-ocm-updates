@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "releaseNotes": "Fix Tracking Service and Logs, Added DENR Logo in Geocam, Bug Fixes and Enhancements",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.2/com.denr.r12.ocm.apk",
+  "version": "1.0.3",
+  "versionCode": 4,
+  "releaseNotes": "Add Load Reference KML to the Field Tools, Bug Fixes and Enhancements",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.3/com.denr.r12.ocm.apk",
   "forceUpdate": false
 }
