@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
+  "version": "1.0.4",
+  "versionCode": 5,
   "releaseNotes": "Add Load Reference KML to the Field Tools, Bug Fixes and Enhancements",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.3/com.denr.r12.ocm.apk",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.4/com.denr.r12.ocm.apk",
   "forceUpdate": false
 }
