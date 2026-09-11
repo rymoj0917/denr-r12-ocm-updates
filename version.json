@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
   "versionCode": 8,
-  "releaseNotes": "Fix OFFLINE Map, Fix Geotag Camera, Bug Fixes and Enhancements",
+  "releaseNotes": "Fix OFFLINE Map, Fix Geotag Camera, Bug Fixes and Enhancements. Go to Map then offline Maps then click Cache Full Map Now after Installing",
   "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.7/com.denr.r12.ocm-Signed.apk",
   "forceUpdate": false
 }
