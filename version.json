@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "releaseNotes": "Add Load Reference KML to the Field Tools, Bug Fixes and Enhancements",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.4/com.denr.r12.ocm.apk",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "releaseNotes": "Fix OFFLINE Mas, Fix Geotag Camera, Bug Fixes and Enhancements",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.6/com.denr.r12.ocm-Signed.apk",
   "forceUpdate": false
 }
