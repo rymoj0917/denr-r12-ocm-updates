@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "versionCode": 9,
-  "releaseNotes": "Fixes a force-close when using Zoom to Me offline in an area with no cached map tiles.",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_com.denr.r12.ocm-Signed_v1.0.8_2026-09-27.apk",
+  "releaseNotes": "Fixes a force-close using Zoom to Me offline; fixes blank map past zoom 16 offline; widens the offline map download area.",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_com.denr.r12.ocm-Signed_v1.0.8_FINAL_2026-09-27.apk",
   "forceUpdate": false
 }
