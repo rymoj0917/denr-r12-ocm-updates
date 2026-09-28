@@ -5,10 +5,10 @@
   "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/DENR-R12-OCM-1.0.8.apk",
   "forceUpdate": false,
 
-  "windowsVersion": "1.0.10",
-  "windowsVersionCode": 11,
+  "windowsVersion": "1.0.11",
+  "windowsVersionCode": 12,
   "windowsReleaseNotes": "Offline admin mode: admins can now sign in, edit polygon attributes and upload shapefiles while offline. Changes are saved on this PC and sent automatically when the server is reachable again (see Pending in the More menu). Big uploads no longer use huge amounts of memory.",
-  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.10.exe",
-  "windowsSha256": "B848D6A825F29B72A811F0A95DCF6A52226E28AD4B1987988016586BAD624E3D",
+  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.11.exe",
+  "windowsSha256": "FDB8DC88ED4C9D50E46C0B211222939287986AE7D51E460F1AC670EBB773113A",
   "windowsForceUpdate": false
 }
