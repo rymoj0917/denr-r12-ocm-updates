@@ -1,7 +1,14 @@
 {
   "version": "1.0.8",
   "versionCode": 9,
-  "releaseNotes": "Fixes a force-close using Zoom to Me offline; fixes blank map past zoom 16 offline; widens the offline map download area.",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_com.denr.r12.ocm-Signed_v1.0.8_FINAL_2026-09-27.apk",
-  "forceUpdate": false
+  "releaseNotes": "Fixes the app closing when zooming in on the offline OpenStreetMap basemap. Deep zoom offline now stays stretched instead of going blank. The offline map download area now covers all of Region XII with margin (about 1 GB).",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/DENR-R12-OCM-1.0.8.apk",
+  "forceUpdate": false,
+
+  "windowsVersion": "1.0.8",
+  "windowsVersionCode": 9,
+  "windowsReleaseNotes": "First Windows release of DENR R12 OCM, with offline map support.",
+  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.8.exe",
+  "windowsSha256": "54A2CCA1D82B95C86DF847411D5EB3257F5673BE1CD488BB848E500C022E05F2",
+  "windowsForceUpdate": false
 }
