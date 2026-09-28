@@ -5,10 +5,10 @@
   "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/DENR-R12-OCM-1.0.8.apk",
   "forceUpdate": false,
 
-  "windowsVersion": "1.0.8",
-  "windowsVersionCode": 9,
+  "windowsVersion": "1.0.9",
+  "windowsVersionCode": 10,
   "windowsReleaseNotes": "First Windows release of DENR R12 OCM, with offline map support.",
-  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.8.exe",
+  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.9.exe",
   "windowsSha256": "54A2CCA1D82B95C86DF847411D5EB3257F5673BE1CD488BB848E500C022E05F2",
   "windowsForceUpdate": false
 }
