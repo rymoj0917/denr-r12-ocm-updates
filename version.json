@@ -8,7 +8,7 @@
   "windowsVersion": "1.0.9",
   "windowsVersionCode": 10,
   "windowsReleaseNotes": "Offline admin mode: admins can now sign in, edit polygon attributes and upload shapefiles while offline. Changes are saved on this PC and sent automatically when the server is reachable again (see Pending in the More menu). Big uploads no longer use huge amounts of memory.",
-  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.9/OCM_Setup_1.0.9.exe",
+  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.9.exe",
   "windowsSha256": "CE193962B08BA7010827616B5D0A9ADC64FF75ACAC44E3FDE30D098D636E55C9",
   "windowsForceUpdate": false
 }
