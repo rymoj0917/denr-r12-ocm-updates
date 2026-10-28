@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
-  "versionCode": 9,
-  "releaseNotes": "Fixes the app closing when zooming in on the offline OpenStreetMap basemap. Deep zoom offline now stays stretched instead of going blank. The offline map download area now covers all of Region XII with margin (about 1 GB).",
-  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/DENR-R12-OCM-1.0.8.apk",
+  "version": "1.0.13",
+  "versionCode": 14,
+  "releaseNotes": "Fixes the \"SSL connection could not be established\" error when caching the full map or syncing layers (dropped connections are now retried). Lot Plotter tie points can now be searched offline. Big layers such as Land Cover load much faster offline: Sync layers now also saves a lighter copy used when the map is zoomed out. After updating, open the app online once, then tap Sync layers.",
+  "apkUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.13/DENR-R12-OCM-1.0.13.apk",
   "forceUpdate": false,
 
-  "windowsVersion": "1.0.11",
-  "windowsVersionCode": 12,
-  "windowsReleaseNotes": "Offline admin mode: admins can now sign in, edit polygon attributes and upload shapefiles while offline. Changes are saved on this PC and sent automatically when the server is reachable again (see Pending in the More menu). Big uploads no longer use huge amounts of memory.",
-  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.8/OCM_Setup_1.0.11.exe",
-  "windowsSha256": "FDB8DC88ED4C9D50E46C0B211222939287986AE7D51E460F1AC670EBB773113A",
+  "windowsVersion": "1.0.13",
+  "windowsVersionCode": 14,
+  "windowsReleaseNotes": "Offline: Lot Plotter tie points can now be searched (the whole list is saved on the device while online). Big layers such as Land Cover load much faster offline: Sync layers now also saves a lighter copy used when the map is zoomed out. After updating, open the app online once, then tap Sync layers (it only downloads the lighter copies, not everything again).",
+  "windowsUrl": "https://github.com/rymoj0917/denr-r12-ocm-updates/releases/download/v1.0.13/OCM_Setup_1.0.13.exe",
+  "windowsSha256": "3DF8EF005507922ECF4D0D2A4F3432E2527E43DFFF945C4FD864C3CD1403D786",
   "windowsForceUpdate": false
 }
